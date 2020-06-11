@@ -1,0 +1,2 @@
+# Aegis
+Primitive AdBlocker
